@@ -1,6 +1,6 @@
 <?php
 
-$token = "6026579575:AAGQFS4XtJoqJO3qiYnpf6BlBEbwzjpyAgM";
+$token = "";
 
 function kirim_pesan($chat_id,$text){
     
